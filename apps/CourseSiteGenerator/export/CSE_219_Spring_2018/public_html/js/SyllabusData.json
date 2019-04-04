@@ -1,0 +1,80 @@
+
+{
+    "description":"1",
+    "topics":[
+        "Programming style and its impact on readability, reliability, maintainability, and portability.",
+        "Decomposing problems into modular designs with simple, narrow interfaces.",
+        "Determining the proper objects in an object-oriented design.",
+        "Selecting appropriate algorithms and data structures.",
+        "Reusing code, including external libraries designed and built by others.",
+        "Learning systematic testing and debugging techniques.",
+        "Maintaining a repository of code during incremental development of a software project.",
+        "Learning how to use threads to synchronize several tasks.",
+        "Improving program performance.",
+        "Making effective use of a programming environment, including:<br /><ul><li>Syntax-directed editor</li><li>Build tools</li><li>Debugging tools</li><li>Testing tools</li><li>Source code management tools</li><li>Profiling tools</li></ul>"
+    ],
+    "prerequisites":"3",
+    "outcomes":[
+        "Ability to systematically design, code, debug, and test programs of about two thousand lines of code.",
+        "Sensitivity to the issues of programming style and modularity and their relationship to the construction and evolution of robust software.",
+        "Knowledge of basic ideas and techniques of object-oriented programming.",
+        "Familiarity with the capabilities and use of programming tools such as syntax-directed editors, debuggers, execution profilers, documentation generators, and revison-control systems."
+    ],
+    "textbooks":[
+        {
+            "title":"Head First Object Oriented Analysis and Design",
+            "link":"http://proquestcombo.safaribooksonline.com.proxy.library.stonybrook.edu/0596008678",
+            "photo":"./images/HeadFirstOOAAD.jpg",
+            "authors":[
+                "Brett McLaughlin",
+                "Gary Pollice",
+                "David West"
+            ],
+            "publisher":"O'Reilly Media, Inc.",
+            "year":"2006"
+        },
+        {
+            "title":"Head First Design Patterns",
+            "link":"http://proquestcombo.safaribooksonline.com.proxy.library.stonybrook.edu/0596007124",
+            "photo":"./images/HeadFirstDesignPatterns.gif",
+            "authors":[
+                "Eric T Freeman",
+                "Elisabeth Robson",
+                "Bert Bates",
+                "Kathy Sierra"
+            ],
+            "publisher":"O'Reilly Media, Inc.",
+            "year":"2004"
+        }
+    ],
+    "gradedComponent":[
+        {
+            "name":"Recitations",
+            "description":"Students will attend weekly recitations that will introduce use of essential development tools and will require completion of an exercise for submission.",
+            "weight":"10"
+        },
+        {
+            "name":"Homework Assignments",
+            "description":"The assignments will develop a students ability to design and implement object-oriented systems. Grading will be based on functionality and proper use specific tools. Submitted code that does not compile will receive no credit. Late submissions will NOT be accepted. Programming assignments will be handed in electronically, instructions for which will be provided early in the semester.",
+            "weight":"20"
+        },
+        {
+            "name":"Final Project",
+            "description":"The assignments will build to the final project, which will be a fully functioning application.",
+            "weight":"20"
+        },
+        {
+            "name":"Midterm Exam",
+            "description":"The midterm will cover all lecture, quizzes, and homework materials covered during the first 1/2 of the semester.",
+            "weight":"20"
+        },
+        {
+            "name":"Final Exam",
+            "description":"The final will be cumulative and will cover all lecture, reading, and homework material.",
+            "weight":"30"
+        }
+    ],
+    "gradingNote":"7",
+    "academicDishonesty":"8",
+    "specialAssistance":"9"
+}

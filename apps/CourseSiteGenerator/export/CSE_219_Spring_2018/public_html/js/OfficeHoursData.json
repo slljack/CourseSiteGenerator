@@ -1,0 +1,32 @@
+
+{
+    "startHour":"8",
+    "endHour":"22",
+    "instructor":{
+        "name":"J",
+        "link":"K",
+        "email":"A",
+        "room":"C",
+        "photo":"./images/RichardMcKenna.jpg",
+        "hours":[
+            {
+                "day":"Tuesday",
+                "time":"1:00pm-2:20pm"
+            },
+            {
+                "day":"Wednesday",
+                "time":"2pm-3pm"
+            },
+            {
+                "day":"Thursday",
+                "time":"1:00pm-2:20pm"
+            }
+        ]
+    },
+    "grad_tas":[
+    ],
+    "undergrad_tas":[
+    ],
+    "officeHours":[
+    ]
+}
