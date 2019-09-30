@@ -7,7 +7,7 @@ Desktop application that builds a custom webpage. This app require no programmin
 ***
 ### Page Design Tab
 
-The tool bar on the top includes create, open, close, save, generate web Page, Exit, Undo, Redo, Help, Language, and About.
+The tool bar on the top includes create new, open, close, save, generate web Page, Exit, Undo, Redo, Help, Language, and About.
 ![](PageDesign.png)
 
 ### Language Changed
@@ -18,12 +18,13 @@ The tool bar on the top includes create, open, close, save, generate web Page, E
 *** 
 ### Event Design Tab
 ![](Event.png)
-###Generated WebPage
+### Generated WebPage
 ![](Schedule.png)
 
 ***
 ### Office Hour Tab
-![](OfficeHourApp.png)
 ##### Notice the email address imput is invalid, so the add TA tab is disabled. This is one of the fool-proof functions that prevents mistakes.
+![](OfficeHourApp.png)
+
 ### generated WebPage
 ![](OfficeHour.png)
