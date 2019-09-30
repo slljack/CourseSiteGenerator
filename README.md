@@ -33,6 +33,6 @@ Choose a name and click on the Office Hours table, one can toggle the time slot 
 ## generated WebPage
 ![](OfficeHour.png)
 
-### Build order
+### Build Instruction
 Property Manager -> jTPS -> DesktopJavaFramework -> CourseSiteGenerator
 Make sure also include the javax.json-1.0.4.jar in the library.
