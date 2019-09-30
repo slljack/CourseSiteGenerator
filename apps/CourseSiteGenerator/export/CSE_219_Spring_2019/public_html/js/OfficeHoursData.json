@@ -24,29 +24,9 @@
         ]
     },
     "grad_tas":[
-        {
-            "name":"aa",
-            "email":"aa@aa.com",
-            "type":"Graduate"
-        }
     ],
     "undergrad_tas":[
     ],
     "officeHours":[
-        {
-            "time":"8_30am",
-            "day":"TUESDAY",
-            "name":"aa"
-        },
-        {
-            "time":"8_30am",
-            "day":"WEDNESDAY",
-            "name":"aa"
-        },
-        {
-            "time":"9_00am",
-            "day":"WEDNESDAY",
-            "name":"aa"
-        }
     ]
 }

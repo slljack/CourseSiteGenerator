@@ -1,10 +1,10 @@
 
 {
-    "subject":"",
-    "number":"",
-    "semester":"",
+    "subject":"CSE",
+    "number":"219",
+    "semester":"Spring",
     "year":"2018",
-    "title":"",
+    "title":"Software Design",
     "logos":{
         "favicon":{
             "href":"/Users/Youyi/Documents/219/HW/HW4/apps/CourseSiteGenerator/images/Favicon.png"
@@ -20,14 +20,30 @@
         }
     },
     "instructor":{
-        "name":"",
-        "link":"",
-        "email":"",
-        "room":"",
+        "name":"Tom",
+        "link":"www.tom.com",
+        "email":"tom@gmail.com",
+        "room":"211",
         "photo":"./images/RichardMcKenna.jpg",
         "hours":""
     },
     "pages":[
+        {
+            "name":"Home",
+            "link":"index.html"
+        },
+        {
+            "name":"Syllabus",
+            "link":"syllabus.html"
+        },
+        {
+            "name":"Schedule",
+            "link":"schedule.html"
+        },
+        {
+            "name":"HWs",
+            "link":"hws.html"
+        }
     ],
     "description":"aaaaaa",
     "topics":"",
@@ -39,26 +55,150 @@
     "academicDishonesty":"",
     "specialAssistance":"",
     "lectures":[
+        {
+            "section":"1",
+            "days":"9/24",
+            "time":"10:00 AM",
+            "room":"205"
+        },
+        {
+            "section":"2",
+            "days":"9/25",
+            "time":"12:00 PM",
+            "room":"206"
+        }
     ],
     "recitations":[
+        {
+            "section":"1",
+            "day_time":"9/26",
+            "location":"205",
+            "ta_1":"Jack",
+            "ta_2":"Sam"
+        }
     ],
     "labs":[
+        {
+            "section":"1",
+            "day_time":"9/25",
+            "location":"206",
+            "ta_1":"John",
+            "ta_2":"Peter"
+        }
     ],
     "startHour":"8",
     "endHour":"22",
     "grad_tas":[
+        {
+            "name":"Jack",
+            "email":"Jack@gmail.com",
+            "type":"Graduate"
+        },
+        {
+            "name":"Sam",
+            "email":"Sam@gmail.com",
+            "type":"Graduate"
+        },
+        {
+            "name":"Peter",
+            "email":"Peter@gmail.com",
+            "type":"Graduate"
+        }
     ],
     "undergrad_tas":[
     ],
     "officeHours":[
+        {
+            "time":"8_30am",
+            "day":"MONDAY",
+            "name":"Jack"
+        },
+        {
+            "time":"8_30am",
+            "day":"TUESDAY",
+            "name":"Jack"
+        },
+        {
+            "time":"8_30am",
+            "day":"WEDNESDAY",
+            "name":"Jack"
+        },
+        {
+            "time":"8_30am",
+            "day":"THURSDAY",
+            "name":"Jack"
+        },
+        {
+            "time":"9_00am",
+            "day":"MONDAY",
+            "name":"Peter"
+        },
+        {
+            "time":"9_00am",
+            "day":"TUESDAY",
+            "name":"Peter"
+        },
+        {
+            "time":"9_00am",
+            "day":"WEDNESDAY",
+            "name":"Peter"
+        },
+        {
+            "time":"9_00am",
+            "day":"THURSDAY",
+            "name":"Peter"
+        },
+        {
+            "time":"9_30am",
+            "day":"MONDAY",
+            "name":"Sam"
+        },
+        {
+            "time":"9_30am",
+            "day":"TUESDAY",
+            "name":"Sam"
+        },
+        {
+            "time":"9_30am",
+            "day":"WEDNESDAY",
+            "name":"Sam"
+        },
+        {
+            "time":"9_30am",
+            "day":"THURSDAY",
+            "name":"Sam"
+        },
+        {
+            "time":"10_00am",
+            "day":"MONDAY",
+            "name":"Peter"
+        },
+        {
+            "time":"10_00am",
+            "day":"THURSDAY",
+            "name":"Sam"
+        }
     ],
     "startingMondayMonth":"08",
     "startingMondayDay":"20",
     "endingFridayMonth":"12",
     "endingFridayDay":"10",
     "holidays":[
+        {
+            "month":"12",
+            "day":"25",
+            "title":"Christmas",
+            "link":""
+        }
     ],
     "lecture":[
+        {
+            "month":"12",
+            "day":"24",
+            "title":"CSE 219 Lecture",
+            "topic":"Software Design",
+            "link":"www.stonybrook.edu"
+        }
     ],
     "references":[
     ],

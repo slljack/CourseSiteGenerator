@@ -24,30 +24,6 @@
             "days":"9/26",
             "time":"12:00 AM",
             "room":"206"
-        },
-        {
-            "section":"1",
-            "days":"9/25",
-            "time":"10:00 AM",
-            "room":"206"
-        },
-        {
-            "section":"2",
-            "days":"9/26",
-            "time":"12:00 AM",
-            "room":"206"
-        },
-        {
-            "section":"1",
-            "days":"9/25",
-            "time":"10:00 AM",
-            "room":"206"
-        },
-        {
-            "section":"2",
-            "days":"9/26",
-            "time":"12:00 AM",
-            "room":"206"
         }
     ],
     "recitations":[
@@ -64,37 +40,9 @@
             "location":"211",
             "ta_1":"Jack",
             "ta_2":"Sam"
-        },
-        {
-            "section":"1",
-            "day_time":"9/27",
-            "location":"211",
-            "ta_1":"Jack",
-            "ta_2":"Sam"
-        },
-        {
-            "section":"1",
-            "day_time":"9/27",
-            "location":"211",
-            "ta_1":"Jack",
-            "ta_2":"Sam"
         }
     ],
     "labs":[
-        {
-            "section":"1",
-            "day_time":"9/28",
-            "location":"211",
-            "ta_1":"Peter",
-            "ta_2":"John"
-        },
-        {
-            "section":"1",
-            "day_time":"9/28",
-            "location":"211",
-            "ta_1":"Peter",
-            "ta_2":"John"
-        },
         {
             "section":"1",
             "day_time":"9/28",
