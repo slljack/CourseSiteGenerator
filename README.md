@@ -2,29 +2,33 @@
 
 CourseSiteGenerator
 ========
-Desktop application that builds a custom webpage. This app require no programming knowledge to its users. It will prompt the user to input information about the webpage. The user can choose the style of the page, and things they want to import such as charts and images.
+Desktop application that builds a custom webpage. This app require no programming knowledge to its users. It will prompt the user to input information about the webpage. The user can choose the style of the page, and things they want to import such as charts and images. Unfinished work will be saved as a json file and user can load and work on their unfinished work. 
+
+### Transactions
+All the transactions in the app is saved in a stack. Users can undo or redo their transactions if they wish so.
 
 ***
-# Page Design Tab
+## Page Design Tab
 
 The tool bar on the top includes create new, open, close, save, generate web Page, Exit, Undo, Redo, Help, Language, and About.
 ![](PageDesign.png)
 
-# Language Changed
+## Language Changed
 ![](Language.png)
-# Generated WebPage 
+## Generated WebPage 
 ![](FirstPage.png)
 
 *** 
-# Event Design Tab
+## Event Design Tab
 ![](Event.png)
-# Generated WebPage
+## Generated WebPage
 ![](Schedule.png)
 
 ***
-# Office Hour Tab
+## Office Hour Tab
+Choose a name and click on the Office Hours table, one can toggle the time slot for the chosen person.
 ##### Notice the email address imput is invalid, so the add TA tab is disabled. This is one of the fool-proof functions that prevents mistakes.
 ![](OfficeHourApp.png)
 
-# generated WebPage
+## generated WebPage
 ![](OfficeHour.png)
